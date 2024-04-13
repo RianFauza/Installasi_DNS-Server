@@ -6,6 +6,7 @@ https://youtu.be/sX44kZKzkFo
 
 <h2>Installasi SSH-Server</h2>
 <h3>Link YouTube</h3>
+https://youtu.be/seWm3QMWzYM
 
 <h2>Installasi FTP</h2>
 <h3>Link YouTube</h3>
